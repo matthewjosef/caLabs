@@ -1,3 +1,3 @@
 # caLabs
 
-Collaborative Advantage is focused on helping individuals, organizations and even society at global scale build collaborative capacity.
+At Collaborative Advantage (ca), we empower individuals and foster collaboration so that people, organizations and communities thrive.
